@@ -1,0 +1,2 @@
+cat copied_file
+chmod 111 File_content_copy

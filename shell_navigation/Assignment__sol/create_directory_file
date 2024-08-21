@@ -1,0 +1,4 @@
+mkdir solfile
+cd solfile
+touch file{A,B,C,D,E,F,G,H,I,J}.sol
+	

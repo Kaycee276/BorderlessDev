@@ -1,0 +1,14 @@
+touch original_file
+touch copied_file
+echo "I'm the original file" > original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+echo "I'm the original file" >> original_file
+cp -b "original_file" "copied_file"
